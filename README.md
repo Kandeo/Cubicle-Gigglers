@@ -1,4 +1,4 @@
-# {Global Powerplant Database Analysis}
+# Global Powerplant Database Analysis
 
 #### {Data Science Project}, {September 2021}
 
